@@ -1,6 +1,8 @@
 import random
 import time
 
+#https://github.com/chiphuyen/python-is-cool
+
 def cheer(fn):
     cheers = [
         "You got this!",
